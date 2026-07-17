@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Shrikant Palakurtiwar</h1>
 
 <h3 align="center">
-AI & Data Science Student | MERN Stack Developer | Machine Learning Enthusiast
+AI & Data Science Student | Data Analyst| AI&ML Engineer| Front -End Developer | MERN Stack Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -129,6 +129,14 @@ Passionate about building AI-powered applications, intelligent systems, and full
 📥 **View Resume**
 
 https://drive.google.com/file/d/11wZLi72PGIih4zbamLs3PfUlzhb3gDGT/view
+
+---
+
+## 🪪 Certifications 
+
+👨🏻‍🎓 **View Certificates**
+
+https://drive.google.com/drive/folders/1dV44JLScmIS4HuKj86skDLbiHi5k9Z4l
 
 ---
 

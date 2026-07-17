@@ -114,9 +114,8 @@ Passionate about building AI-powered applications, intelligent systems, and full
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pshree2003&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pshree2003&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
-
 ---
 
 

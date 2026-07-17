@@ -9,6 +9,10 @@ I am eager to learn, build impactful projects, and grow as an AI & Data Science 
 
 <img src="https://komarev.com/ghpvc/?username=pshree2003&label=Profile%20views&color=0e75b6&style=flat" alt="pshree2003" />
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pshree2003&theme=radical&margin-w=15&margin-h=15&column=4" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshree2003" alt="pshree2003" /></a> </p>
 
 - 🔭 I’m currently working on **Live project in MERN Stack, GEN_AI & ML**

@@ -1,38 +1,147 @@
-![shree_linkdin_bg](https://github.com/user-attachments/assets/31960f1c-6fe3-487c-9da4-1ce6999989d2)
-
-
-<h1 align="center">Hi 👋, I'm Shrikant Palakurtiwar</h1>
-<h3 align="center">"MERN-Stack and Full-Stack Web Developer | Artificial Intelligence and DATA Science "</h3>
-I am a Web Developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, React.js, and Bootstrap. I have worked on real-world and academic projects involving complete UI development and deployment readiness. Currently, I am pursuing Artificial Intelligence & Data Science (AI&DS) and actively building skills in Python, Data Analysis, GenAI and Machine Learning. I am focused on transitioning into AI, Data Science, and ML roles, with a strong interest in applying intelligent systems to solve real-world problems.
-I am eager to learn, build impactful projects, and grow as an AI & Data Science professional.
-
-
-<img src="https://komarev.com/ghpvc/?username=pshree2003&label=Profile%20views&color=0e75b6&style=flat" alt="pshree2003" />
+<!-- ========================= Banner ========================= -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pshree2003&theme=radical&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github.com/user-attachments/assets/31960f1c-6fe3-487c-9da4-1ce6999989d2" alt="Shrikant Banner" width="100%">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshree2003" alt="pshree2003" /></a> </p>
+<h1 align="center">Hi 👋, I'm Shrikant Palakurtiwar</h1>
 
-- 🔭 I’m currently working on **Live project in MERN Stack, GEN_AI & ML**
-- 🌱 I’m currently learning **Core Fundamentals of GenAi, MLOps, Data Science and DSA Concepts.**
-- 👯 I’m looking to collaborate **With tech companies and expertise in my knowledge**
-- 🤝 I’m looking for help with **my projects and Technical knowledge in real world .**
-- 👨‍💻 All of my projects are available at [Github : pshree2003](Github : pshree2003)
-- 📫 How to reach me **shrikantsp03@gmail.com**, **linkedin.com/in/shrikant-palakurtiwar-a3a91b24b** 
+<h3 align="center">
+AI & Data Science Student | MERN Stack Developer | Machine Learning Enthusiast
+</h3>
 
+<p align="center">
+Passionate about building AI-powered applications, intelligent systems, and full-stack web solutions that solve real-world problems.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shrikant-palakurtiwar-a3a91b24b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shree_0311_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrikantsp03@gmail.com) 
+---
 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- 🔭 Currently working on **Live MERN Stack, GenAI & Machine Learning Projects**
+- 🌱 Learning **Machine Learning, Data Science, GenAI, MLOps & DSA**
+- 💡 Interested in **Artificial Intelligence, Full Stack Development, Data Analytics & Computer Vision**
+- 🤝 Looking to collaborate on **Open Source, AI and Web Development Projects**
+- 🎯 Goal: Become an **AI Engineer / Machine Learning Engineer**
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=pshree2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pshree2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wZLi72PGIih4zbamLs3PfUlzhb3gDGT/view?usp=sharing](https://drive.google.com/file/d/11wZLi72PGIih4zbamLs3PfUlzhb3gDGT/view?usp=sharing)
+## 🌐 Connect With Me
 
+<p align="left">
+
+<a href="https://github.com/pshree2003" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shrikant-palakurtiwar-a3a91b24b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/shree_0311_" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:shrikantsp03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+## 🚀 Featured Projects
+
+- 🏥 **MedIntel – AI Health Report Analyzer**
+- 🤖 **Aushadhi AI – Multi-Agent Healthcare Assistant**
+- 📄 **Multi PDF Chatbot using Gemini AI**
+- 🎬 **FilmBuster – Movie Ticket Booking System**
+- 🍔 **Restaurant Food Ordering System**
+- 💪 **Gym Management System**
+- 🌐 **Portfolio & MERN Stack Projects**
+
+👉 **GitHub:** https://github.com/pshree2003
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pshree2003&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshree2003&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=pshree2003&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pshree2003&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📄 Resume
+
+📥 **View Resume**
+
+https://drive.google.com/file/d/11wZLi72PGIih4zbamLs3PfUlzhb3gDGT/view
+
+---
+
+## 💬 Quote
+
+> **"Learning never stops. Every project is another step toward becoming a better AI Engineer."**
+
+---
+
+⭐ **If you like my work, consider following me and starring my repositories!**

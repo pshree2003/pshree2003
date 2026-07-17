@@ -113,11 +113,6 @@ Passionate about building AI-powered applications, intelligent systems, and full
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pshree2003&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pshree2003&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
----
-
 
 ## 📈 Contribution Graph
 

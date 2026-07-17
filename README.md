@@ -1,7 +1,7 @@
 <!-- ========================= Banner ========================= -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31960f1c-6fe3-487c-9da4-1ce6999989d2" alt="Shrikant Banner" width="100%">
+  <img src="[https://github.com/user-attachments/assets/31960f1c-6fe3-487c-9da4-1ce6999989d2](https://github.com/pshree2003/pshree2003/blob/main/Screenshot%202026-07-17%20143128.png)" alt="Shrikant Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shrikant Palakurtiwar</h1>

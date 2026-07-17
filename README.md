@@ -109,16 +109,16 @@ Passionate about building AI-powered applications, intelligent systems, and full
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=pshree2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pshree2003&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pshree2003&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshree2003&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=pshree2003&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pshree2003&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
+
 
 ## 📈 Contribution Graph
 

@@ -6,8 +6,8 @@
 I am a Web Developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, React.js, and Bootstrap. I have worked on real-world and academic projects involving complete UI development and deployment readiness. Currently, I am pursuing Artificial Intelligence & Data Science (AI&DS) and actively building skills in Python, Data Analysis, GenAI and Machine Learning. I am focused on transitioning into AI, Data Science, and ML roles, with a strong interest in applying intelligent systems to solve real-world problems.
 I am eager to learn, build impactful projects, and grow as an AI & Data Science professional.
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pshree2003&label=Profile%20views&color=0e75b6&style=flat" alt="pshree2003" /> </p>
+
+<img src="https://komarev.com/ghpvc/?username=pshree2003&label=Profile%20views&color=0e75b6&style=flat" alt="pshree2003" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshree2003" alt="pshree2003" /></a> </p>
 

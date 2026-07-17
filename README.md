@@ -124,7 +124,7 @@ Passionate about building AI-powered applications, intelligent systems, and full
 
 ---
 
-## 📄 Resume
+## 🪪 Resume
 
 📥 **View Resume**
 
@@ -132,7 +132,7 @@ https://drive.google.com/file/d/11wZLi72PGIih4zbamLs3PfUlzhb3gDGT/view
 
 ---
 
-## 🪪 Certifications 
+## 📃 Certifications 
 
 👨🏻‍🎓 **View Certificates**
 
